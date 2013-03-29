@@ -1,7 +1,7 @@
 Android_Twitter_Search_Filter_Display
 =================================
 
-Finish Data: March 2010
+Finish Data: March 2013
 
 Android app. Used the Twitter API to pull tweets from Twitter and display them in a list View. The user's Twitter photo, handle and location should be displayed alongside the tweet. Built a simple search box that filters tweets based on user location. For example if you enter 'New York' in the search box, it should display users from New York. 
 
